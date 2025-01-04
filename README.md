@@ -6,8 +6,7 @@ Welcome to my GitHub profile! I'm passionate about web development, software eng
 ---
 
 ## 🚀 My Favorite Project:  
-**[SkateSpots](https://github.com/krapsits1/SkateSpots)** – A Laravel web app I built to help skaters discover and share their favorite spots. 🛹  
-(Under development)
+**[SkateSpots](https://github.com/krapsits1/SkateSpots)** – A Laravel web app I built to help skaters discover and share their favorite spots. 🛹  (Under development)
 ---
 
 ## 📚 Homework Projects  
