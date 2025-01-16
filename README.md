@@ -6,11 +6,13 @@ Welcome to my GitHub profile! I'm passionate about web development, software eng
 ---
 
 ## 🚀 My Favorite Project:  
-**[SkateSpots](https://github.com/krapsits1/SkateSpots)** – A Laravel web app I built to help skaters discover and share their favorite spots. 🛹  (Under development)
+**[SkateSpots](https://github.com/krapsits1/SkateSpots)** – A Laravel web app I built to help skaters discover and share their favorite spots. 🛹 (Under development)  
+
 ---
 
 ## 💻 Personal Projects  
 🔹 **[PNGs to DOCX](https://github.com/krapsits1/PNGs_to_DOCX)** – A tool to convert PNG images to DOCX files efficiently.  
+
 ---
 
 ## 📚 Homework Projects  
@@ -33,4 +35,4 @@ Welcome to my GitHub profile! I'm passionate about web development, software eng
 ---
 
 ### 📫 How to Reach Me  
-Feel free to connect or reach out for collaborations, ideas, or just to chat about tech!  
+Feel free to connect or reach out for collaborations, ideas, or just to chat about tech!
