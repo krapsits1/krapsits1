@@ -21,6 +21,8 @@ Welcome to my GitHub profile! I'm passionate about web development, software eng
 🔹 [ASP.NET Core Project](https://github.com/krapsits1/ASP-.NET-CORE)  
 🔹 [.Net MAUI App 2MD](https://github.com/krapsits1/.NetMaui_2MD)  
 🔹 [.Net MAUI App 3MD (with DB)](https://github.com/krapsits1/.NetMaui_3MD_DB)  
+🔹 [C# Classes](https://github.com/krapsits1/C-Clases)  
+
 
 ### Laravel Projects  
 🔹 [Static Laravel Website (TT1 Exam)](https://github.com/krapsits1/TT1_exam)  
